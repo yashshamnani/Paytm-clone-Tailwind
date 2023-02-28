@@ -18,6 +18,7 @@ This is a paytm clone, built using **HTML5, CSS3 and Tailwind CSS**.
  
 
 <br>
+
 ## 📌 Tech Stack
 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/prakash-naikwadi)&nbsp;
