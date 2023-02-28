@@ -3,6 +3,8 @@
 
  
 <br>
+
+
   **This Site is Fully Responsive**
 
 This is a paytm clone, built using **HTML5, CSS3 and Tailwind CSS**.
